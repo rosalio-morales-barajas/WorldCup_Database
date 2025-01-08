@@ -1,2 +1,2 @@
-# WorldCup_Database
-This is a database from the WorldCup...it's made with postgresql-13...
+# FCC-WorldCup-Database
+FCC Worldcup database
